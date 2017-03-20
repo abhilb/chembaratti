@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle chembaratti",
+        "command": "chembaratti:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "chembaratti",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "chembaratti:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
