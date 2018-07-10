@@ -1,6 +1,6 @@
 # chembaratti package
 
-A short description of your package.
+Plugin to edit halcon scripts in Atom Editor.
 
 ![A screenshot of your package](/hibiscus.svg)
 
